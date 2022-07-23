@@ -1,5 +1,8 @@
 # Biryani-House
-A food order app  build with React.js .
+<h3>A food order app  build with React.js .</h3>
+<img src="https://github.com/atharvakutwal2002/Biryani-House/blob/main/src/assets/screencapture-biryani-house-1-netlify-app-2022-07-23-21_18_32.png" />
+<img src="https://github.com/atharvakutwal2002/Biryani-House/blob/main/src/assets/screencapture-biryani-house-1-netlify-app-2022-07-23-21_19_08.png"/>
+<img src="https://github.com/atharvakutwal2002/Biryani-House/blob/main/src/assets/screencapture-biryani-house-1-netlify-app-2022-07-23-21_19_27.png"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
